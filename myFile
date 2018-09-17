@@ -1,3 +1,7 @@
 Creation of file "myFile".
 
+<<<<<<< HEAD
 Edit from "master".
+=======
+Edit of this file from "myBranch"
+>>>>>>> myBranch
